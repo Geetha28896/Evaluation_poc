@@ -29,4 +29,9 @@ async function get(){
     let result= await check()
     console.log(result);
 }
-get()
+//get()
+
+
+console.log(a)
+
+let a=10;

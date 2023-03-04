@@ -53,8 +53,9 @@ function abc(){
 
 //    console.log( abcd());
 //    console.log(this)
+console.log(x+abcd());
     
 }
 
-//console.log(abc());
-abc.call(abcd)
+abc()
+//abc.call(abcd)
